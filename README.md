@@ -1,6 +1,6 @@
-# PROJECT TITLE
+# PhD Compass: Navigating Your Scholarly Future
 
-TBD
+under construction
 
 ### __Project Purpose__    
 * TBD  
